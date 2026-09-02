@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>referral-app — visual +0 ~2 -0</title>
+<style>body{font-family:system-ui,sans-serif;margin:2rem;color:#222}section.shot{margin-bottom:2.5rem}section.shot[hidden]{display:none}h2{margin-bottom:.5rem}.toggles{display:flex;flex-wrap:wrap;gap:1rem;margin:0 0 1.5rem;position:sticky;top:0;background:#fff;padding:.75rem 0;z-index:1}.toggle{display:flex;align-items:center;gap:.4rem}.dim-label{font-size:.8rem;color:#555}.toggle button{font:inherit;font-size:.8rem;padding:.15rem .6rem;border:1px solid #bbb;background:#f6f6f6;border-radius:999px;cursor:pointer}.toggle button.active{background:#222;color:#fff;border-color:#222}.variants img{max-width:100%;height:auto;border:1px solid #ddd;border-radius:4px}.variant[hidden]{display:none}</style>
+</head>
+<body>
+<h1>referral-app — visual +0 ~2 -0</h1>
+<section class="shot"><h2>referral-app/engineering-settings</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/engineering-settings.png" alt="referral-app/engineering-settings"></div></section>
+<section class="shot"><h2>referral-app/history-detail</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/history-detail.png" alt="referral-app/history-detail"></div></section>
+<section class="shot"><h2>referral-app/history-empty</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/history-empty.png" alt="referral-app/history-empty"></div></section>
+<section class="shot"><h2>referral-app/history-pagination</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/history-pagination.png" alt="referral-app/history-pagination"></div></section>
+<section class="shot"><h2>referral-app/history-table</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/history-table.png" alt="referral-app/history-table"></div></section>
+<section class="shot"><h2>referral-app/intake-empty</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/intake-empty.png" alt="referral-app/intake-empty"></div></section>
+<section class="shot"><h2>referral-app/intake-error</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/intake-error.png" alt="referral-app/intake-error"></div></section>
+<section class="shot"><h2>referral-app/intake-extracted</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/intake-extracted.png" alt="referral-app/intake-extracted"></div></section>
+<section class="shot"><h2>referral-app/intake-finalized</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/intake-finalized.png" alt="referral-app/intake-finalized"></div></section>
+<section class="shot"><h2>referral-app/intake-form</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/intake-form.png" alt="referral-app/intake-form"></div></section>
+<section class="shot"><h2>referral-app/intake-form-workerscomp</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/intake-form-workerscomp.png" alt="referral-app/intake-form-workerscomp"></div></section>
+<section class="shot"><h2>referral-app/login</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/login.png" alt="referral-app/login"></div></section>
+<section class="shot"><h2>referral-app/review-detail</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/review-detail.png" alt="referral-app/review-detail"></div></section>
+<section class="shot"><h2>referral-app/review-empty</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/review-empty.png" alt="referral-app/review-empty"></div></section>
+<section class="shot"><h2>referral-app/review-queue</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/review-queue.png" alt="referral-app/review-queue"></div></section>
+<section class="shot"><h2>referral-app/settings</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/settings.png" alt="referral-app/settings"></div></section>
+<section class="shot"><h2>referral-app/settings-providers</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/settings-providers.png" alt="referral-app/settings-providers"></div></section>
+<section class="shot"><h2>referral-app/shell-nav</h2>
+<div class="variants"><img class="variant" data-variant="" loading="lazy" src="referral-app/shell-nav.png" alt="referral-app/shell-nav"></div></section>
+<script>const bar=document.querySelector('.toggles');if(bar){const sel={};for(const t of bar.querySelectorAll('.toggle')){const a=t.querySelector('button.active')||t.querySelector('button');if(a)sel[t.dataset.dim]=a.dataset.val;}const parse=s=>{const o={};if(s)for(const p of s.split(';')){const i=p.indexOf('=');o[p.slice(0,i)]=p.slice(i+1);}return o;};const match=v=>{for(const k in v)if(sel[k]!==v[k])return false;return true;};const apply=()=>{for(const sec of document.querySelectorAll('.shot')){const imgs=sec.querySelectorAll('.variant');if(!imgs.length)continue;let any=false;for(const img of imgs){const ok=match(parse(img.dataset.variant));img.hidden=!ok;if(ok)any=true;}sec.hidden=!any;}for(const b of bar.querySelectorAll('.toggle button'))b.classList.toggle('active',sel[b.parentElement.dataset.dim]===b.dataset.val);};for(const b of bar.querySelectorAll('.toggle button'))b.addEventListener('click',()=>{sel[b.parentElement.dataset.dim]=b.dataset.val;apply();});apply();}</script>
+</body>
+</html>
