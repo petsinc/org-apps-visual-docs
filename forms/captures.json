@@ -4,13 +4,13 @@
     {
       "name": "forms/already-submitted",
       "toggles": {},
-      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "hash": "87023065ba2050d6d642aa80ed921d86b881733eabd7894d60cbb48fb668f13c",
       "image": "forms/already-submitted.png"
     },
     {
       "name": "forms/expired",
       "toggles": {},
-      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "hash": "9412c879b60c4105660533fb426eb621fc78a5eb4d2fa5e6eb93258ba4a2e34b",
       "image": "forms/expired.png"
     },
     {
@@ -22,13 +22,13 @@
     {
       "name": "forms/submit-failed-final",
       "toggles": {},
-      "hash": "4a5d4c1a76f099ca6dd6008dfe03a83b7f7448e67baea3353f0b52a5793abc01",
+      "hash": "5f758d7b7f48a7ddb5a00e6456cb68aad582e79e95b7e9b0e0531def7b6adb6f",
       "image": "forms/submit-failed-final.png"
     },
     {
       "name": "forms/submit-failed-retryable",
       "toggles": {},
-      "hash": "4a5d4c1a76f099ca6dd6008dfe03a83b7f7448e67baea3353f0b52a5793abc01",
+      "hash": "8053fb8351775eec61c943fa67dbb0bc2b21111867a890905208296b83fe4a7f",
       "image": "forms/submit-failed-retryable.png"
     },
     {
@@ -40,7 +40,7 @@
     {
       "name": "forms/unknown-link",
       "toggles": {},
-      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "hash": "cf328d5eecbbe5bc57384fae38e857ad42dd5751941f7bef5d28e2af1c307c90",
       "image": "forms/unknown-link.png"
     },
     {
