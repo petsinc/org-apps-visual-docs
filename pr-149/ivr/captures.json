@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "ivr/add-existing-number-conflict",
+      "toggles": {},
+      "hash": "22c07cc719e8cc9c179c0c0b2ed948f848851e69f284b2b7a93407dc4feb510d",
+      "image": "ivr/add-existing-number-conflict.png"
+    },
+    {
+      "name": "ivr/flow-add-node",
+      "toggles": {},
+      "hash": "46ddbf508637fa0d34ddb01505accc256db2676f0b04716f6dc414e75de174f0",
+      "image": "ivr/flow-add-node.png"
+    },
+    {
+      "name": "ivr/flow-assigned-numbers",
+      "toggles": {},
+      "hash": "e7faed090a2bef8904eea6d8f0de5e5f42f5acb556c954428edf8f6b46c2026b",
+      "image": "ivr/flow-assigned-numbers.png"
+    },
+    {
+      "name": "ivr/flow-design",
+      "toggles": {},
+      "hash": "ed5eb57d81929355393f86d4fb9aa3bc9d9a9c6241cd5183f65b45290ed18e89",
+      "image": "ivr/flow-design.png"
+    },
+    {
+      "name": "ivr/flow-node-settings",
+      "toggles": {},
+      "hash": "0aa97ec3a50f19249224a5d5b0298d3a9e6b6830d8b0cffc0a6a72d0cd696f6a",
+      "image": "ivr/flow-node-settings.png"
+    },
+    {
+      "name": "ivr/login",
+      "toggles": {},
+      "hash": "ab8a6acae2f5f45574d8eba3050c7db00394553815d3015a909963b671b884d3",
+      "image": "ivr/login.png"
+    },
+    {
+      "name": "ivr/number-settings-live-texml-disabled",
+      "toggles": {},
+      "hash": "753581287879bb5cda5c8aa9c7e804d03aaf56bf9b60a1a29be7c449dde0159e",
+      "image": "ivr/number-settings-live-texml-disabled.png"
+    },
+    {
+      "name": "ivr/number-settings-live-texml-enabled",
+      "toggles": {},
+      "hash": "5a7c6b705de1ebd8eadfbc19fb43cdf73e9b8bb18518cbe2b62a1be72a4bd417",
+      "image": "ivr/number-settings-live-texml-enabled.png"
+    },
+    {
+      "name": "ivr/numbers-live-texml-disabled",
+      "toggles": {},
+      "hash": "dbe1ecea24d25926b8bdfc2412615ca2b36baa52d4a54d70e41f4ec718d3e7ab",
+      "image": "ivr/numbers-live-texml-disabled.png"
+    },
+    {
+      "name": "ivr/numbers-live-texml-enabled",
+      "toggles": {},
+      "hash": "abaa41ce21843986673c535b7a825f4568915cd21aaff177cb0a56623967f79e",
+      "image": "ivr/numbers-live-texml-enabled.png"
+    }
+  ]
+}
