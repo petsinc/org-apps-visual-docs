@@ -8,6 +8,12 @@
       "image": "pages/already-submitted.png"
     },
     {
+      "name": "pages/document",
+      "toggles": {},
+      "hash": "c179a94cafb20e66b2721cb3e7663fdc9efa2c79c3df22e6b353fcf369f0a736",
+      "image": "pages/document.png"
+    },
+    {
       "name": "pages/expired",
       "toggles": {},
       "hash": "c942e925928e53bf5fbb501206eda7bc548a288f06ea05744d54509f66d20087",
