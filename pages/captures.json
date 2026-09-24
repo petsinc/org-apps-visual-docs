@@ -26,10 +26,34 @@
       "image": "pages/first-screen.png"
     },
     {
+      "name": "pages/load-failed",
+      "toggles": {},
+      "hash": "14caafea41c458e7501a657472f10743db774c4756d6fa0fbb143d0586291430",
+      "image": "pages/load-failed.png"
+    },
+    {
+      "name": "pages/page-unavailable",
+      "toggles": {},
+      "hash": "97762eb1e05f0f7c0ed1e6c085bdd2804c4671e5bcb86b76eebab3d4c4c601d3",
+      "image": "pages/page-unavailable.png"
+    },
+    {
+      "name": "pages/prose-only",
+      "toggles": {},
+      "hash": "aa376dda1f9ffc9464e78850603c0d8b9cd04da5e22b709dc013c243f995644d",
+      "image": "pages/prose-only.png"
+    },
+    {
       "name": "pages/resumed",
       "toggles": {},
       "hash": "dbe00dbd19a0923fca7672ea3c9ed17b721a3c0e777081ade1c4e291ff75cb4f",
       "image": "pages/resumed.png"
+    },
+    {
+      "name": "pages/rich-content",
+      "toggles": {},
+      "hash": "5e67e8e79a77f1aa9f24d63fb50b2828a757da5f7dcf2590d8511b0d04ea90cc",
+      "image": "pages/rich-content.png"
     },
     {
       "name": "pages/single-screen",
