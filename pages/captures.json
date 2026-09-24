@@ -10,7 +10,7 @@
     {
       "name": "pages/document",
       "toggles": {},
-      "hash": "c179a94cafb20e66b2721cb3e7663fdc9efa2c79c3df22e6b353fcf369f0a736",
+      "hash": "492a54aa956d673122f2b4aa02dbe340530770eb398d37b4baf47354427f7464",
       "image": "pages/document.png"
     },
     {
@@ -22,13 +22,13 @@
     {
       "name": "pages/first-screen",
       "toggles": {},
-      "hash": "008fd45fe2a6d0f9025f2cbee3780b798d326396f276b20f6d8f4c57b9a47495",
+      "hash": "093ba81d6a4a61cbd4c8a959089e015d3fe6377e83f089ba0dd31a973b98714c",
       "image": "pages/first-screen.png"
     },
     {
       "name": "pages/resumed",
       "toggles": {},
-      "hash": "faa3da1d03b7366834b44c6c0cd580913fb1a9b27c3ed014d447b6f37aa118b6",
+      "hash": "dbe00dbd19a0923fca7672ea3c9ed17b721a3c0e777081ade1c4e291ff75cb4f",
       "image": "pages/resumed.png"
     },
     {
