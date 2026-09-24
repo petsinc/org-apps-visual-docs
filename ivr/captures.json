@@ -10,25 +10,25 @@
     {
       "name": "ivr/flow-add-node",
       "toggles": {},
-      "hash": "46ddbf508637fa0d34ddb01505accc256db2676f0b04716f6dc414e75de174f0",
+      "hash": "f866530ab0ea0efb5eae7478f4101ca8814ae5ce30f3935549c0a0acdc032bc5",
       "image": "ivr/flow-add-node.png"
     },
     {
       "name": "ivr/flow-assigned-numbers",
       "toggles": {},
-      "hash": "e7faed090a2bef8904eea6d8f0de5e5f42f5acb556c954428edf8f6b46c2026b",
+      "hash": "963b16f44eab344ea554c4c337fe80fdb251b72ebdf806ead20e1ae68ae9dc3e",
       "image": "ivr/flow-assigned-numbers.png"
     },
     {
       "name": "ivr/flow-design",
       "toggles": {},
-      "hash": "ed5eb57d81929355393f86d4fb9aa3bc9d9a9c6241cd5183f65b45290ed18e89",
+      "hash": "77a001d5cd6997136e654499640e5d79da995df6b2432a157ebd278809f06015",
       "image": "ivr/flow-design.png"
     },
     {
       "name": "ivr/flow-node-settings",
       "toggles": {},
-      "hash": "0aa97ec3a50f19249224a5d5b0298d3a9e6b6830d8b0cffc0a6a72d0cd696f6a",
+      "hash": "1098dc2d1a3656985c6e13cdd47a2a12cc60061e7347200d4790c39ed26190ce",
       "image": "ivr/flow-node-settings.png"
     },
     {
