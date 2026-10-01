@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "engagement-manager/login",
+      "toggles": {},
+      "hash": "6c536334b6edbd578331943f273bb185254b24d8d84a76ad08471ecf20ef7d7a",
+      "image": "engagement-manager/login.png"
+    }
+  ]
+}

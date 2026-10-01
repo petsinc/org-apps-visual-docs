@@ -1,0 +1,35 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "ivr/login",
+      "toggles": {},
+      "hash": "f9b6b7ccc85799d8a02bcaf5bd52b3d93770dc34b920ed5bd2f2cf76371ea88e",
+      "image": "ivr/login.png"
+    },
+    {
+      "name": "ivr/number-settings-live-texml-disabled",
+      "toggles": {},
+      "hash": "ab525ebf55eec391445e8ef42e9731717f35fa64137e98bfafdd8602d18498cc",
+      "image": "ivr/number-settings-live-texml-disabled.png"
+    },
+    {
+      "name": "ivr/number-settings-live-texml-enabled",
+      "toggles": {},
+      "hash": "809cc232e1461ca89d94a442a614b6aa23a74557d2c7fa9c4628d731f4c4f673",
+      "image": "ivr/number-settings-live-texml-enabled.png"
+    },
+    {
+      "name": "ivr/numbers-live-texml-disabled",
+      "toggles": {},
+      "hash": "b48424a39f850547f5708489ebd291d7bc90aba840488a03435ca683b2338d4f",
+      "image": "ivr/numbers-live-texml-disabled.png"
+    },
+    {
+      "name": "ivr/numbers-live-texml-enabled",
+      "toggles": {},
+      "hash": "9458e6e201bb3500c314a32e1e9e4403093b02c141b3ed7b05e41fdee63064ea",
+      "image": "ivr/numbers-live-texml-enabled.png"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "forms/already-submitted",
+      "toggles": {},
+      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "image": "forms/already-submitted.png"
+    },
+    {
+      "name": "forms/expired",
+      "toggles": {},
+      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "image": "forms/expired.png"
+    },
+    {
+      "name": "forms/form",
+      "toggles": {},
+      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "image": "forms/form.png"
+    },
+    {
+      "name": "forms/submit-failed-final",
+      "toggles": {},
+      "hash": "4a5d4c1a76f099ca6dd6008dfe03a83b7f7448e67baea3353f0b52a5793abc01",
+      "image": "forms/submit-failed-final.png"
+    },
+    {
+      "name": "forms/submit-failed-retryable",
+      "toggles": {},
+      "hash": "4a5d4c1a76f099ca6dd6008dfe03a83b7f7448e67baea3353f0b52a5793abc01",
+      "image": "forms/submit-failed-retryable.png"
+    },
+    {
+      "name": "forms/submitted-thanks",
+      "toggles": {},
+      "hash": "4a5d4c1a76f099ca6dd6008dfe03a83b7f7448e67baea3353f0b52a5793abc01",
+      "image": "forms/submitted-thanks.png"
+    },
+    {
+      "name": "forms/unknown-link",
+      "toggles": {},
+      "hash": "41d8d43f1e04fea0de718f0d87eeb2955b4655a14a10110522404852d84bef7c",
+      "image": "forms/unknown-link.png"
+    },
+    {
+      "name": "forms/validation-errors",
+      "toggles": {},
+      "hash": "2c0e08c2992a780f7d5932cda032a6b3d3e495a228a95d28ccdc00705176ef9d",
+      "image": "forms/validation-errors.png"
+    }
+  ]
+}
