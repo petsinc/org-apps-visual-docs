@@ -64,31 +64,37 @@
     {
       "name": "pages/scheduling",
       "toggles": {},
-      "hash": "e869a14cbaf0378a7fe4f513fcd4a877c8151ed64e8bf9926c406cb7d54cbd80",
+      "hash": "249a458c232c44e285026d870cba2db58e37b0cf1bca7f4bb77d4de272407510",
       "image": "pages/scheduling.png"
     },
     {
       "name": "pages/scheduling-booked",
       "toggles": {},
-      "hash": "0f065b13165c871e83773830a101b06361637727af3d462f00a31d05ccac3f05",
+      "hash": "da961344519e61555acf089fb11c2238f89b0469ad30f39005065a78c8f8b006",
       "image": "pages/scheduling-booked.png"
     },
     {
       "name": "pages/scheduling-chosen",
       "toggles": {},
-      "hash": "14065aa4a3af37f09118f7bd7b39640641697cfa61a89732ba896f0ffb43ac57",
+      "hash": "68f972de11721f537ca4fd65b1639a2a8b5be84e36bc8d7ce5f7e4f563247cc8",
       "image": "pages/scheduling-chosen.png"
     },
     {
       "name": "pages/scheduling-expired",
       "toggles": {},
-      "hash": "19f1b631c4fd003155a0a7b56589749bb3f4f49af6f7a209216a8fe1b538ff1f",
+      "hash": "70812b4836b7bc2aedcdbdc3d8c25eddc497874bcfb656754944007342a56e34",
       "image": "pages/scheduling-expired.png"
+    },
+    {
+      "name": "pages/scheduling-narrow",
+      "toggles": {},
+      "hash": "7c88d802b58a5c1a5b71f6b9d981f0dac404a2685f018505bb828401f8644d2e",
+      "image": "pages/scheduling-narrow.png"
     },
     {
       "name": "pages/scheduling-no-times",
       "toggles": {},
-      "hash": "ecb8205f21777917083c8876c6fb88e4a6490b4c47e70e4e22da0c6b56344750",
+      "hash": "4cf0f9947ab020d504050ebe7ab2bcf86edc999b755e2989b467af7072efac0e",
       "image": "pages/scheduling-no-times.png"
     },
     {
