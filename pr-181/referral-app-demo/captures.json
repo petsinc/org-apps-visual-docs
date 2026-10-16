@@ -76,13 +76,25 @@
     {
       "name": "referral-app-demo/settings",
       "toggles": {},
-      "hash": "ec811c7c6981b71b73ccdd476ef59971bd78af55bc0560828fe13da8432fa730",
+      "hash": "20a1338c4afa01d36efd64a35aedcbeae81642a305b91d8e635ac55bfcaa567c",
       "image": "referral-app-demo/settings.png"
+    },
+    {
+      "name": "referral-app-demo/settings-empty",
+      "toggles": {},
+      "hash": "727baf260a9cfe2b0ae67be738e5a39fb5cd08952bf12e3338d89e9012e2a313",
+      "image": "referral-app-demo/settings-empty.png"
+    },
+    {
+      "name": "referral-app-demo/settings-provider-connected",
+      "toggles": {},
+      "hash": "80b378573c4b10f97ba88a1a72736b47012efac07892f4a091179a2483a5609d",
+      "image": "referral-app-demo/settings-provider-connected.png"
     },
     {
       "name": "referral-app-demo/settings-providers",
       "toggles": {},
-      "hash": "063875aac583c1b2c7cf48c3b79b996f84fc97f3ed6983c7025dc4bf1fab1bc5",
+      "hash": "38b7c994f78e5e9054c0b4e3f609726047610c25333a41d0aefa47974a5f18b7",
       "image": "referral-app-demo/settings-providers.png"
     },
     {
