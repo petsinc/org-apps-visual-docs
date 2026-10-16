@@ -68,6 +68,24 @@
       "image": "pages/scheduling.png"
     },
     {
+      "name": "pages/scheduling-booked",
+      "toggles": {},
+      "hash": "0f065b13165c871e83773830a101b06361637727af3d462f00a31d05ccac3f05",
+      "image": "pages/scheduling-booked.png"
+    },
+    {
+      "name": "pages/scheduling-chosen",
+      "toggles": {},
+      "hash": "14065aa4a3af37f09118f7bd7b39640641697cfa61a89732ba896f0ffb43ac57",
+      "image": "pages/scheduling-chosen.png"
+    },
+    {
+      "name": "pages/scheduling-expired",
+      "toggles": {},
+      "hash": "19f1b631c4fd003155a0a7b56589749bb3f4f49af6f7a209216a8fe1b538ff1f",
+      "image": "pages/scheduling-expired.png"
+    },
+    {
       "name": "pages/scheduling-no-times",
       "toggles": {},
       "hash": "ecb8205f21777917083c8876c6fb88e4a6490b4c47e70e4e22da0c6b56344750",
