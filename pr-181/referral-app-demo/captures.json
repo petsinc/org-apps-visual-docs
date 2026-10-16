@@ -4,7 +4,7 @@
     {
       "name": "referral-app-demo/engineering-settings",
       "toggles": {},
-      "hash": "1f320f0cebe0aa97d7657a217f834c089893b24c1ad0c8ad9c566294ef2d52fb",
+      "hash": "f722e5816b8eaf3c0c27cfebb6b13ee202cc16660630b27c7676370181dc6628",
       "image": "referral-app-demo/engineering-settings.png"
     },
     {
@@ -16,7 +16,7 @@
     {
       "name": "referral-app-demo/history-empty",
       "toggles": {},
-      "hash": "d8bfa3b86598426d8ef8839c72ef54eb0c985c647a2c6fdb178286fb2260c653",
+      "hash": "f6b33c23d631cdc2421835fa3a157ffaad87c5b42258ad48eee1f2338569585c",
       "image": "referral-app-demo/history-empty.png"
     },
     {
@@ -28,31 +28,31 @@
     {
       "name": "referral-app-demo/history-table",
       "toggles": {},
-      "hash": "e61f9c68598ce4c738958ef5ba8b4b770b76f0d6c06e26b357d7378c9b8e1078",
+      "hash": "2a45d4b5147d5b83ceccd7b052d5ece35d0b409780ba2cd2c5d63a2f099fde58",
       "image": "referral-app-demo/history-table.png"
     },
     {
       "name": "referral-app-demo/intake-empty",
       "toggles": {},
-      "hash": "d99b8941072fbf5949eb57dfcee4625f3c809cd22f39aa120b9a0f6584aeb3c1",
+      "hash": "20012d6ec229f08537ae173ca46a96e5dcb37c19f070b851996ed71e7bf7f66f",
       "image": "referral-app-demo/intake-empty.png"
     },
     {
       "name": "referral-app-demo/intake-error",
       "toggles": {},
-      "hash": "9f77e30b54e0cd84486f8bfedd4fe25500803e4cb8ccdf1f9053695031fcd453",
+      "hash": "785dabf7841048304a83dd46aed6ab450d7c97751e4242f8e878be8950cded95",
       "image": "referral-app-demo/intake-error.png"
     },
     {
       "name": "referral-app-demo/intake-extracted",
       "toggles": {},
-      "hash": "07b1eacfbdbd37b30aa1eea68de638ce95bd19dce1ed04cf5e6f28b0e3df6649",
+      "hash": "75eae7279c8cfa4bd52c134170f486d9c77a49b6030717fa5acde05700566a16",
       "image": "referral-app-demo/intake-extracted.png"
     },
     {
       "name": "referral-app-demo/intake-finalized",
       "toggles": {},
-      "hash": "443f9e81de1971446f1606efca892079afa47dac2195906f8219a0a685af8b46",
+      "hash": "b525cfdfe849bb5c996b2861f5a7c7cb00824fb02f821bf2cbbd0b375713656c",
       "image": "referral-app-demo/intake-finalized.png"
     },
     {
@@ -64,7 +64,7 @@
     {
       "name": "referral-app-demo/intake-form-workerscomp",
       "toggles": {},
-      "hash": "8a227ff416a28d19e5a0ddcf6eb0638c4a0ec83bf91e42bda0737ba00987740b",
+      "hash": "0c93d8554efdea89b1e42052a65cc5ce58bc4d4a46e1f8a9c59ca1b678b4fa6d",
       "image": "referral-app-demo/intake-form-workerscomp.png"
     },
     {
@@ -74,27 +74,9 @@
       "image": "referral-app-demo/login.png"
     },
     {
-      "name": "referral-app-demo/review-detail",
-      "toggles": {},
-      "hash": "c9a368f449b596bd61fb3e6d40bc415a98d30c4961903fb75df8310da09e0b3a",
-      "image": "referral-app-demo/review-detail.png"
-    },
-    {
-      "name": "referral-app-demo/review-empty",
-      "toggles": {},
-      "hash": "f848f08a2afb27f7fffc7dc0964ffb148762737335b865f9d2108b3bc1ff6a88",
-      "image": "referral-app-demo/review-empty.png"
-    },
-    {
-      "name": "referral-app-demo/review-queue",
-      "toggles": {},
-      "hash": "5d2537cffff8ddb6a544e8bf29d0b89e8c475f41e36686fd27e059324f5419ec",
-      "image": "referral-app-demo/review-queue.png"
-    },
-    {
       "name": "referral-app-demo/settings",
       "toggles": {},
-      "hash": "e8825dc561dcf89a8f3e75aba185b0168f706d4f3924493e818dfd673b240ed6",
+      "hash": "ec811c7c6981b71b73ccdd476ef59971bd78af55bc0560828fe13da8432fa730",
       "image": "referral-app-demo/settings.png"
     },
     {
@@ -106,7 +88,7 @@
     {
       "name": "referral-app-demo/shell-nav",
       "toggles": {},
-      "hash": "eb47f23deac57f99d08919890827e69da7b4c704cd4e854180df25c2bb59f733",
+      "hash": "1bc295013d86973a7ca6b7f671f040f1ff35bb850e5bf2c29186deba2523b737",
       "image": "referral-app-demo/shell-nav.png"
     }
   ]
