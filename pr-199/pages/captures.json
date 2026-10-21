@@ -1,0 +1,131 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "pages/already-submitted",
+      "toggles": {},
+      "hash": "1985c110214a8b216f0b5138f2469a8452fb5828a51e48a27c686b4ccaa0e092",
+      "image": "pages/already-submitted.png"
+    },
+    {
+      "name": "pages/document",
+      "toggles": {},
+      "hash": "f384dcef2322e63701b763e765bde08036ed239fa899342013d80a143dff6d65",
+      "image": "pages/document.png"
+    },
+    {
+      "name": "pages/expired",
+      "toggles": {},
+      "hash": "ed74b04815ef9fa4a094dac50119b3c1f9eb54153846607a124f81dfd5a3785a",
+      "image": "pages/expired.png"
+    },
+    {
+      "name": "pages/first-screen",
+      "toggles": {},
+      "hash": "3a18550e13169bb647e9ef61223b5c987e27bc9dc1c24aba01463afe1b45107d",
+      "image": "pages/first-screen.png"
+    },
+    {
+      "name": "pages/load-failed",
+      "toggles": {},
+      "hash": "78e13f2144508c295bbf5191db642b23a7a7646a1de2735ebde0a5c305f4dc83",
+      "image": "pages/load-failed.png"
+    },
+    {
+      "name": "pages/page-unavailable",
+      "toggles": {},
+      "hash": "61efbeeae06c3a29a566a90420c26df759befa095e183b9f6cd3eff13c34f404",
+      "image": "pages/page-unavailable.png"
+    },
+    {
+      "name": "pages/photograph",
+      "toggles": {},
+      "hash": "bb5575c099decc91dbaab72d41159351583c009a2dea7293e4c6d9453d314096",
+      "image": "pages/photograph.png"
+    },
+    {
+      "name": "pages/prose-only",
+      "toggles": {},
+      "hash": "f1cc76dd0ad4b52f8f747a32552c2b246464b07007184f80a09ece90dbad94e4",
+      "image": "pages/prose-only.png"
+    },
+    {
+      "name": "pages/resumed",
+      "toggles": {},
+      "hash": "38bf56b936548e153dc38254d59659936539d6c8e64c8f57dbb40229aef80c41",
+      "image": "pages/resumed.png"
+    },
+    {
+      "name": "pages/rich-content",
+      "toggles": {},
+      "hash": "5db8e5c68cf1557560cca9555a2e1a1fd258d54924451600ef0aae57ef66c2f4",
+      "image": "pages/rich-content.png"
+    },
+    {
+      "name": "pages/scheduling",
+      "toggles": {},
+      "hash": "3aa4a10ee5803601b05fa53ab5b36f394f5cc5520f8c29bde4c7b2b5b0ed096a",
+      "image": "pages/scheduling.png"
+    },
+    {
+      "name": "pages/scheduling-all-times",
+      "toggles": {},
+      "hash": "172c5ce7b22d43b3bb84761ee93fa106a43e4217b24d75c5eacdadbfa120d3f2",
+      "image": "pages/scheduling-all-times.png"
+    },
+    {
+      "name": "pages/scheduling-booked",
+      "toggles": {},
+      "hash": "a40238665c1628e4bc1ec8c569ae64f18326345aea93049fb467621ce90d4921",
+      "image": "pages/scheduling-booked.png"
+    },
+    {
+      "name": "pages/scheduling-chosen",
+      "toggles": {},
+      "hash": "8cf1d1f338741ecb7a09b4fe28aa445bb2b1733e70568c167c36d12863117996",
+      "image": "pages/scheduling-chosen.png"
+    },
+    {
+      "name": "pages/scheduling-expired",
+      "toggles": {},
+      "hash": "1a7b6be85e595614d8517d1e39914d2706cd5d88611b63063059b0d98dda5fda",
+      "image": "pages/scheduling-expired.png"
+    },
+    {
+      "name": "pages/scheduling-many-times",
+      "toggles": {},
+      "hash": "c5a71d13f06cfc628398a2d8b517ae37f2aab1c35872590fed933de52a944c3c",
+      "image": "pages/scheduling-many-times.png"
+    },
+    {
+      "name": "pages/scheduling-narrow",
+      "toggles": {},
+      "hash": "ccba3fd6450f4452f23842c4e2033742cb1a41c366eae32c59b4145005e9b50f",
+      "image": "pages/scheduling-narrow.png"
+    },
+    {
+      "name": "pages/scheduling-no-times",
+      "toggles": {},
+      "hash": "13aff1f9145e1860a5fda3982c801243e12d88dd19b5797c22023611f51cf78f",
+      "image": "pages/scheduling-no-times.png"
+    },
+    {
+      "name": "pages/single-screen",
+      "toggles": {},
+      "hash": "9ded11bccbd0d9ecd7ade44308426448a585899a061c5d0367f7222d99cbec19",
+      "image": "pages/single-screen.png"
+    },
+    {
+      "name": "pages/submit-refused",
+      "toggles": {},
+      "hash": "3381f9c644a401ee0acc12a2cccc8b00f434e4aaa0c77eae8a1580a6d338db70",
+      "image": "pages/submit-refused.png"
+    },
+    {
+      "name": "pages/unknown-link",
+      "toggles": {},
+      "hash": "a1483f9f6c7841f096df4805ca2184fdc12073740eafc18d6839acf0f0909d52",
+      "image": "pages/unknown-link.png"
+    }
+  ]
+}
