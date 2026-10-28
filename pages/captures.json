@@ -50,6 +50,12 @@
       "image": "pages/prose-only.png"
     },
     {
+      "name": "pages/publication-disabled",
+      "toggles": {},
+      "hash": "42b78e2935a3b546c8aa419b13484761dbed1784861f99d85cd631639644e288",
+      "image": "pages/publication-disabled.png"
+    },
+    {
       "name": "pages/resumed",
       "toggles": {},
       "hash": "38bf56b936548e153dc38254d59659936539d6c8e64c8f57dbb40229aef80c41",
