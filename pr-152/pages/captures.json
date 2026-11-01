@@ -1,0 +1,41 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "pages/already-submitted",
+      "toggles": {},
+      "hash": "6ac00f1f94c34b2c0c6dc752e4817bde08a7aa022bb81508e26aab72a0f2198b",
+      "image": "pages/already-submitted.png"
+    },
+    {
+      "name": "pages/expired",
+      "toggles": {},
+      "hash": "0a5dc4167d08690db9c99bc57a7436214c359b722013cfb5a74a3d9ee1766ba0",
+      "image": "pages/expired.png"
+    },
+    {
+      "name": "pages/first-screen",
+      "toggles": {},
+      "hash": "54c2c722b9397b96f8b1f4c0df20c42d70a0ffbab65105a02640d7c515771e85",
+      "image": "pages/first-screen.png"
+    },
+    {
+      "name": "pages/resumed",
+      "toggles": {},
+      "hash": "7498fda1b91db401e4ec009904179e517c2b3b3be8bfd582141d675d85853ea6",
+      "image": "pages/resumed.png"
+    },
+    {
+      "name": "pages/single-screen",
+      "toggles": {},
+      "hash": "d299ed6e0e8a33ea7860866d9f34dd32ea49502e972a2c98861e2923f39a73b6",
+      "image": "pages/single-screen.png"
+    },
+    {
+      "name": "pages/unknown-link",
+      "toggles": {},
+      "hash": "c267632a28788a7ffbe059a84f4628d8b937f44ccf067a5e31e6d84cccbb09b1",
+      "image": "pages/unknown-link.png"
+    }
+  ]
+}

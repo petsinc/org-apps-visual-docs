@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "operations-demo/login",
+      "toggles": {},
+      "hash": "83b955bdb621bf319f6477d94faf60dbcf245b5a154eddd065e990dce82f7150",
+      "image": "operations-demo/login.png"
+    }
+  ]
+}
