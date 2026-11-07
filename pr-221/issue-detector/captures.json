@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "issue-detector/app",
+      "toggles": {},
+      "hash": "9135f2c9ffda2e594cf69a91dfbcf4b3a5f7a17444f68443418d33ae3210ab42",
+      "image": "issue-detector/app.png"
+    },
+    {
+      "name": "issue-detector/login",
+      "toggles": {},
+      "hash": "88f90eb156f99957e94169648b41895c1c30d68b6973c0183f2af4cd64fe65a4",
+      "image": "issue-detector/login.png"
+    }
+  ]
+}
