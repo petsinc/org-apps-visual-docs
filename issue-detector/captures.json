@@ -4,7 +4,7 @@
     {
       "name": "issue-detector/app",
       "toggles": {},
-      "hash": "07adaecdd9e7b7ba77deb36e4669a01d4331cb58b72c22ba1814747df4b38b6a",
+      "hash": "15f9f3e495a5aee303c3d361c366ff983a3330031d713a707d1c893e4637082c",
       "image": "issue-detector/app.png"
     },
     {
