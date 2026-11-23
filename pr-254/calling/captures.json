@@ -4,115 +4,115 @@
     {
       "name": "calling/active-call",
       "toggles": {},
-      "hash": "de42f0c293821c4a850c2f6b72dc186fe21ce21d73914ef73588309943971d12",
+      "hash": "6204289768f393faf841c41fd2b28dac9fec20a941c5ce6f96e853d5757c4bcf",
       "image": "calling/active-call.png"
     },
     {
       "name": "calling/admin-billing",
       "toggles": {},
-      "hash": "7c730541b217127c319aae8d41520e477fde2f9e202fd9fba9e399f9bc0197b4",
+      "hash": "83da9555c4b5c49fbff90c85a448bd9c5809b914dca343e4a3fcc11546f75e1a",
       "image": "calling/admin-billing.png"
     },
     {
       "name": "calling/admin-users",
       "toggles": {},
-      "hash": "5971a4c65b7e1255c4b9a7b879365bf58875a5fe80896fb9f868bc032e447046",
+      "hash": "03f451510ace8a8b56f541739f8089ab1c6c81bf67d839735c0904252cbeff0d",
       "image": "calling/admin-users.png"
     },
     {
       "name": "calling/call-review",
       "toggles": {},
-      "hash": "11bdc4ecdb7ce902dd5669a827dd3aa409e34f8442f1309de106b588a5986445",
+      "hash": "319c405c5406218ca534a1b09377fe81621d7507d37fc971a56f3bf4adf02cfb",
       "image": "calling/call-review.png"
     },
     {
       "name": "calling/dark-active-call",
       "toggles": {},
-      "hash": "3858fbea29983a3cd212570b965c9de4d90bfa877a425c771b5b2c101a8d32a2",
+      "hash": "0f09220b4fbe4372505b259c4762078dd999ea79c2be0b469130c929523b69df",
       "image": "calling/dark-active-call.png"
     },
     {
       "name": "calling/dark-audio",
       "toggles": {},
-      "hash": "0215fb539a9a48e05b8c11c97a5e8522464b63408a5b497650435813cf0641c1",
+      "hash": "377050c1148bb7581d77566c78b7be73c6623a9bb84f8b9228c7640b8b58e758",
       "image": "calling/dark-audio.png"
     },
     {
       "name": "calling/dark-call-review",
       "toggles": {},
-      "hash": "28dd87e6f8e5ae09b3d5fad5ecf4e592d74a8fa9cf68c5e0f457b4abd3687f04",
+      "hash": "1f1d2ae71117c656716c677ef169ff824e60ab1d568b2e9bcc4e537a7da44444",
       "image": "calling/dark-call-review.png"
     },
     {
       "name": "calling/dark-filters",
       "toggles": {},
-      "hash": "fd52e6deff56fea934d052d6eeaa3ba9dc1575fcadc81182a9b22820111e8544",
+      "hash": "bdf1433dec5d2d58bd50b31d8a79ab51b97bd2b023ca1349d59cdd9e9a21d2e1",
       "image": "calling/dark-filters.png"
     },
     {
       "name": "calling/dark-incoming",
       "toggles": {},
-      "hash": "c6d45fd871f8f7c03c5a5b7ae90cd6c086825327ec67ddb033566681d4f56b9d",
+      "hash": "b514fe4d52147af6cca0c34f150f236c4d9c6acbaf63bb28e6597d1d2e97e96a",
       "image": "calling/dark-incoming.png"
     },
     {
       "name": "calling/dark-messages-thread",
       "toggles": {},
-      "hash": "64ad8b31bf8c70099dec9b4532faf27a0083072ac024e191b4a1ff95107fb634",
+      "hash": "e0efa1767f08e354cd76221ca0f9ad9f12db2f5c38d52dba36528142a9ad3453",
       "image": "calling/dark-messages-thread.png"
     },
     {
       "name": "calling/dark-new-call",
       "toggles": {},
-      "hash": "70adaec315dcbb4aac8f9077f3ac38296bde5419e3dae4d66e2692d4e3ca315b",
+      "hash": "ab085575dd3c412580181dbc2c799afe8cabc9672c91bbb08c657f52799aa9b4",
       "image": "calling/dark-new-call.png"
     },
     {
       "name": "calling/dark-settings",
       "toggles": {},
-      "hash": "d1a0b31451f04b9c69aeae0e973fa57fd06545ed0a397174b71eda248df2d9f4",
+      "hash": "46b8a194ff380fb0cfa4b911bab8c8e60e82781745f4b7672ecbcaba30761679",
       "image": "calling/dark-settings.png"
     },
     {
       "name": "calling/dark-team",
       "toggles": {},
-      "hash": "70895971d36bac99396581c0c840a824ef3d1ce4e0c84be18011d4d7984f0363",
+      "hash": "d688fa378397b477ba644a188d9990aabb2ba5223a90d5ac5cd9bdbad59bb3dd",
       "image": "calling/dark-team.png"
     },
     {
       "name": "calling/dark-voicemail",
       "toggles": {},
-      "hash": "f2d804c4b3a0a435a7c1b082c14b56a5be8ca03f7b1215964aa63a86cc0a9d60",
+      "hash": "ed76d8691900db26d94de5bc01a55199494347f154d3b82afa0d8c36c6a9f833",
       "image": "calling/dark-voicemail.png"
     },
     {
       "name": "calling/handoff-review",
       "toggles": {},
-      "hash": "22ccbf2b331af284c615a92dfa13952dbe1dc1c84bc09398d3b61edf43f6a45e",
+      "hash": "370266b475400e40f4381e2fc71da10edd1b5d308be276c598a2840a092b4a1c",
       "image": "calling/handoff-review.png"
     },
     {
       "name": "calling/history-filters",
       "toggles": {},
-      "hash": "0e9184a1e625181742a8e120336c2065ace8c35d66cb8391fe6fcddbe1c2eb44",
+      "hash": "7720be83feb18c37f74991cb1b1b00cc396383eb763541548670dde034a46693",
       "image": "calling/history-filters.png"
     },
     {
       "name": "calling/incoming",
       "toggles": {},
-      "hash": "9434cf62fd29d0060281e1c574cd66262be8035b40c652371cd96e83c9757855",
+      "hash": "bef77ccb88278dfdc736af808120f065a2a0b5897cf8b8da38e06c5d37e774d8",
       "image": "calling/incoming.png"
     },
     {
       "name": "calling/messages-inbox",
       "toggles": {},
-      "hash": "278a994947e4dbb3d4e4ba0e9df62513c9a64f56de9e5fb364367cda6c04c387",
+      "hash": "1262d7ca921b6fda7eeed9c2d52b97ed7d378a361b814d72738588647c29533a",
       "image": "calling/messages-inbox.png"
     },
     {
       "name": "calling/messages-thread",
       "toggles": {},
-      "hash": "e29c2cddb4599dd58270ebd7ea244128fdb8123bb1c3a47f0900d87201edbde7",
+      "hash": "ba63981b7383bc81ca088784f7154b6e284e563c889ee65f6fcf9dd77ecafeb9",
       "image": "calling/messages-thread.png"
     },
     {
@@ -130,43 +130,43 @@
     {
       "name": "calling/new-call-keypad",
       "toggles": {},
-      "hash": "aa8ebd14bf426777cbd884ca5ee9309ae550001ff40d323462a151934d4152f7",
+      "hash": "4b14e62e41ff5dc77ad79a019795beaf6fd25c46d827a56fcc579b4f35b452d8",
       "image": "calling/new-call-keypad.png"
     },
     {
       "name": "calling/new-call-team",
       "toggles": {},
-      "hash": "f5f0523389fbc14fbf548794c148977104f829296718e302f58442c19b91d262",
+      "hash": "584e8310e1ea37bc7413d079c34f9767e90931b2856fcd795ba0d5dcb83d7799",
       "image": "calling/new-call-team.png"
     },
     {
       "name": "calling/post-call",
       "toggles": {},
-      "hash": "cd971a93d0be06ce43ce93b7dfc887a8ab98097722c7d47a6f3b0f0c1fab0008",
+      "hash": "43a0e96593775b8d3c12af61276c47b17d41338ee045cb9584762eb069993a68",
       "image": "calling/post-call.png"
     },
     {
       "name": "calling/settings-account",
       "toggles": {},
-      "hash": "cb533460f69f2134088caaa236f585ff9c4f6bdc71023903135fc2fa9249084a",
+      "hash": "3472cd55722b7e78cafb9c4f3b4a9be7e4588d65b620e818a4c71588fb50578b",
       "image": "calling/settings-account.png"
     },
     {
       "name": "calling/team-directory",
       "toggles": {},
-      "hash": "e9fa718c145454719fc881808c75dbc7c8f0088a116b0fc4e5ea5201e9f8169a",
+      "hash": "4612aa36eb87dccf456719ec666d3e4e54c6e51a89c7aa7229583a50f8168250",
       "image": "calling/team-directory.png"
     },
     {
       "name": "calling/voicemail",
       "toggles": {},
-      "hash": "d4f9887c6432b2333020d898ce8f8e583ed4597414e1be972063640151dce9ff",
+      "hash": "d612b92f6fd0597d744c6da2b70f4d2f81c08ab6a666243742355e0f4e94080e",
       "image": "calling/voicemail.png"
     },
     {
       "name": "calling/workspace",
       "toggles": {},
-      "hash": "b8a9ba2850830ea4dc746cf13416f633882b71a7041100b4880f5498ec1b86a6",
+      "hash": "af9c84b3a6f30510f65b9ecd8f215cf674d8d421874eb5a86609f9f0a72343ff",
       "image": "calling/workspace.png"
     }
   ]
