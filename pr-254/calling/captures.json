@@ -1,0 +1,173 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "calling/active-call",
+      "toggles": {},
+      "hash": "de42f0c293821c4a850c2f6b72dc186fe21ce21d73914ef73588309943971d12",
+      "image": "calling/active-call.png"
+    },
+    {
+      "name": "calling/admin-billing",
+      "toggles": {},
+      "hash": "7c730541b217127c319aae8d41520e477fde2f9e202fd9fba9e399f9bc0197b4",
+      "image": "calling/admin-billing.png"
+    },
+    {
+      "name": "calling/admin-users",
+      "toggles": {},
+      "hash": "5971a4c65b7e1255c4b9a7b879365bf58875a5fe80896fb9f868bc032e447046",
+      "image": "calling/admin-users.png"
+    },
+    {
+      "name": "calling/call-review",
+      "toggles": {},
+      "hash": "11bdc4ecdb7ce902dd5669a827dd3aa409e34f8442f1309de106b588a5986445",
+      "image": "calling/call-review.png"
+    },
+    {
+      "name": "calling/dark-active-call",
+      "toggles": {},
+      "hash": "3858fbea29983a3cd212570b965c9de4d90bfa877a425c771b5b2c101a8d32a2",
+      "image": "calling/dark-active-call.png"
+    },
+    {
+      "name": "calling/dark-audio",
+      "toggles": {},
+      "hash": "0215fb539a9a48e05b8c11c97a5e8522464b63408a5b497650435813cf0641c1",
+      "image": "calling/dark-audio.png"
+    },
+    {
+      "name": "calling/dark-call-review",
+      "toggles": {},
+      "hash": "28dd87e6f8e5ae09b3d5fad5ecf4e592d74a8fa9cf68c5e0f457b4abd3687f04",
+      "image": "calling/dark-call-review.png"
+    },
+    {
+      "name": "calling/dark-filters",
+      "toggles": {},
+      "hash": "fd52e6deff56fea934d052d6eeaa3ba9dc1575fcadc81182a9b22820111e8544",
+      "image": "calling/dark-filters.png"
+    },
+    {
+      "name": "calling/dark-incoming",
+      "toggles": {},
+      "hash": "c6d45fd871f8f7c03c5a5b7ae90cd6c086825327ec67ddb033566681d4f56b9d",
+      "image": "calling/dark-incoming.png"
+    },
+    {
+      "name": "calling/dark-messages-thread",
+      "toggles": {},
+      "hash": "64ad8b31bf8c70099dec9b4532faf27a0083072ac024e191b4a1ff95107fb634",
+      "image": "calling/dark-messages-thread.png"
+    },
+    {
+      "name": "calling/dark-new-call",
+      "toggles": {},
+      "hash": "70adaec315dcbb4aac8f9077f3ac38296bde5419e3dae4d66e2692d4e3ca315b",
+      "image": "calling/dark-new-call.png"
+    },
+    {
+      "name": "calling/dark-settings",
+      "toggles": {},
+      "hash": "d1a0b31451f04b9c69aeae0e973fa57fd06545ed0a397174b71eda248df2d9f4",
+      "image": "calling/dark-settings.png"
+    },
+    {
+      "name": "calling/dark-team",
+      "toggles": {},
+      "hash": "70895971d36bac99396581c0c840a824ef3d1ce4e0c84be18011d4d7984f0363",
+      "image": "calling/dark-team.png"
+    },
+    {
+      "name": "calling/dark-voicemail",
+      "toggles": {},
+      "hash": "f2d804c4b3a0a435a7c1b082c14b56a5be8ca03f7b1215964aa63a86cc0a9d60",
+      "image": "calling/dark-voicemail.png"
+    },
+    {
+      "name": "calling/handoff-review",
+      "toggles": {},
+      "hash": "22ccbf2b331af284c615a92dfa13952dbe1dc1c84bc09398d3b61edf43f6a45e",
+      "image": "calling/handoff-review.png"
+    },
+    {
+      "name": "calling/history-filters",
+      "toggles": {},
+      "hash": "0e9184a1e625181742a8e120336c2065ace8c35d66cb8391fe6fcddbe1c2eb44",
+      "image": "calling/history-filters.png"
+    },
+    {
+      "name": "calling/incoming",
+      "toggles": {},
+      "hash": "9434cf62fd29d0060281e1c574cd66262be8035b40c652371cd96e83c9757855",
+      "image": "calling/incoming.png"
+    },
+    {
+      "name": "calling/messages-inbox",
+      "toggles": {},
+      "hash": "278a994947e4dbb3d4e4ba0e9df62513c9a64f56de9e5fb364367cda6c04c387",
+      "image": "calling/messages-inbox.png"
+    },
+    {
+      "name": "calling/messages-thread",
+      "toggles": {},
+      "hash": "e29c2cddb4599dd58270ebd7ea244128fdb8123bb1c3a47f0900d87201edbde7",
+      "image": "calling/messages-thread.png"
+    },
+    {
+      "name": "calling/mobile",
+      "toggles": {},
+      "hash": "86578b9a24476ebb199c8adc7d06eb6891aa8e5ebb68a0d10a3710b3351d95ac",
+      "image": "calling/mobile.png"
+    },
+    {
+      "name": "calling/mobile-messages-thread",
+      "toggles": {},
+      "hash": "51b4dab31146283598bc496580125edf97a78e377468ccfefd2ccb4858ccd346",
+      "image": "calling/mobile-messages-thread.png"
+    },
+    {
+      "name": "calling/new-call-keypad",
+      "toggles": {},
+      "hash": "aa8ebd14bf426777cbd884ca5ee9309ae550001ff40d323462a151934d4152f7",
+      "image": "calling/new-call-keypad.png"
+    },
+    {
+      "name": "calling/new-call-team",
+      "toggles": {},
+      "hash": "f5f0523389fbc14fbf548794c148977104f829296718e302f58442c19b91d262",
+      "image": "calling/new-call-team.png"
+    },
+    {
+      "name": "calling/post-call",
+      "toggles": {},
+      "hash": "cd971a93d0be06ce43ce93b7dfc887a8ab98097722c7d47a6f3b0f0c1fab0008",
+      "image": "calling/post-call.png"
+    },
+    {
+      "name": "calling/settings-account",
+      "toggles": {},
+      "hash": "cb533460f69f2134088caaa236f585ff9c4f6bdc71023903135fc2fa9249084a",
+      "image": "calling/settings-account.png"
+    },
+    {
+      "name": "calling/team-directory",
+      "toggles": {},
+      "hash": "e9fa718c145454719fc881808c75dbc7c8f0088a116b0fc4e5ea5201e9f8169a",
+      "image": "calling/team-directory.png"
+    },
+    {
+      "name": "calling/voicemail",
+      "toggles": {},
+      "hash": "d4f9887c6432b2333020d898ce8f8e583ed4597414e1be972063640151dce9ff",
+      "image": "calling/voicemail.png"
+    },
+    {
+      "name": "calling/workspace",
+      "toggles": {},
+      "hash": "b8a9ba2850830ea4dc746cf13416f633882b71a7041100b4880f5498ec1b86a6",
+      "image": "calling/workspace.png"
+    }
+  ]
+}
