@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "storage-demo/login",
+      "toggles": {},
+      "hash": "7127b5e62025ce71dbb094637400280532acf9b774a28f7ede286a1af8af332f",
+      "image": "storage-demo/login.png"
+    },
+    {
+      "name": "storage-demo/upload-form",
+      "toggles": {},
+      "hash": "c981a08ccaf204be7efb640b4f9945f4f6b775b37c9d0df69f08bd05f22891f7",
+      "image": "storage-demo/upload-form.png"
+    }
+  ]
+}

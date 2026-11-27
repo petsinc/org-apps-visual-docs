@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "office-dashboard/board",
+      "toggles": {},
+      "hash": "268a89ea689ac1a39497b51947f3eb3993be9fe4b2c2efc45ae49d863286e295",
+      "image": "office-dashboard/board.png"
+    },
+    {
+      "name": "office-dashboard/login",
+      "toggles": {},
+      "hash": "9b2572b99fc06ca679d5906459cc41fc18bd5579aaca26aba36b51c742c0297e",
+      "image": "office-dashboard/login.png"
+    }
+  ]
+}

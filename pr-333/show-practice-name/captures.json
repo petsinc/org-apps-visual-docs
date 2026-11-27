@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "show-practice-name/login",
+      "toggles": {},
+      "hash": "6d8e0432c33a6ff409d8a7dc8e5bbc27ffb5dc15d30572252740b216451824e8",
+      "image": "show-practice-name/login.png"
+    }
+  ]
+}
