@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "referral-operations/login",
+      "toggles": {},
+      "hash": "74722876a57d52c7122fed3d48dc7ef2d5a9f8fc071e74fa2e0e918c92e13581",
+      "image": "referral-operations/login.png"
+    }
+  ]
+}
