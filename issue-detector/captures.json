@@ -4,13 +4,13 @@
     {
       "name": "issue-detector/app",
       "toggles": {},
-      "hash": "7d6be0d077ed86ddbaefaae3b419a610e98c2ce7c975df1cf302622353db62ef",
+      "hash": "277085eed80a2dace5556cc5e6d8d682a180ed05a694c294bcbbc44a2c88662d",
       "image": "issue-detector/app.png"
     },
     {
       "name": "issue-detector/login",
       "toggles": {},
-      "hash": "88f90eb156f99957e94169648b41895c1c30d68b6973c0183f2af4cd64fe65a4",
+      "hash": "b722bde1e1e76faf39ceb569566b9991a65e0765483cc581921d923021dad697",
       "image": "issue-detector/login.png"
     }
   ]
