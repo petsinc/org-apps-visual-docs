@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "campaign-design/login",
+      "toggles": {},
+      "hash": "e01a9fd0d2d899cd2b4ebfea457dee7aaaa8b686fb09413bff7a62f7f0614a8b",
+      "image": "campaign-design/login.png"
+    }
+  ]
+}

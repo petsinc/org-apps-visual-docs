@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "shots": [
+    {
+      "name": "pod3-projects/login",
+      "toggles": {},
+      "hash": "43ed498c726d443ea64d9cffceafa337faba49b7aa5b3cd682380fc11b5470cf",
+      "image": "pod3-projects/login.png"
+    },
+    {
+      "name": "pod3-projects/projects",
+      "toggles": {},
+      "hash": "5bc540f996fe8e4808da77930ef485d2ecef0de4a96c72e1a2a1e604ef297848",
+      "image": "pod3-projects/projects.png"
+    }
+  ]
+}
